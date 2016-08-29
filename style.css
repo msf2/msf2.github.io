@@ -2,17 +2,19 @@
 	position: fixed;
 	background-color: white;
 	color: black;
+    z-index: 100;
+}
+ul {
 	list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    z-index: 100;
 }
 .hero{
 	position: relative;
 	float: left;
-  background: 
+  	background: 
   	url(/img/home-stairs.jpg);
 
-  background-size: cover;
+  	background-size: cover;
 }
