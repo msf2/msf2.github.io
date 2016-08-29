@@ -4,11 +4,23 @@
 	color: black;
     z-index: 100;
 }
-ul {
+.menu ul {
 	list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+}
+.menu li {
+    float: left;
+}
+.menu li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.menu li a:hover {
+    background-color: #111111;
 }
 .hero{
 	position: relative;
