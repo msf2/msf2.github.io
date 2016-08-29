@@ -49,4 +49,6 @@ html, body{
 }
 .half{
 	width: 50%;
+	position: relative;
+	top: 250px;
 }
