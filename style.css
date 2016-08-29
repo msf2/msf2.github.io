@@ -7,7 +7,7 @@ html, body{
 }
 .menu {
 	position: fixed;
-	background-color: white;
+	background: rgba(0,0,0,0);
 	color: black;
     z-index: 100;
     width: 100%;
@@ -30,7 +30,7 @@ html, body{
     color: black;
 }
 .menu li a:hover {
-    background-color: #80b3ff;
+    background-color: #68c2ff;
 }
 .hero{
 	position: relative;
@@ -41,5 +41,5 @@ html, body{
   	background-size: cover;
   	width: 100%;
   	margin-top: 50px;
-  	height: 100%;
+  	height: 500px;
 }
