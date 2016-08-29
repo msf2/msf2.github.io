@@ -2,15 +2,16 @@
 	position: fixed;
 	background-color: white;
 	color: black;
-	 list-style-type: none;
+	list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 .hero{
-	
+	position: relative;
+	float: left;
   background: 
-  	url(/img/home-stairs);
+  	url(/img/home-stairs.jpg);
 
   background-size: cover;
 }
