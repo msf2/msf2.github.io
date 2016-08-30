@@ -19,8 +19,11 @@ html, body{
 	float: left;
     z-index: 100;
     width: 80%;
-    height: 5px;
+    height: 100%;
     padding:0; margin:0;
+}
+.logo .img {
+	height: 10px;
 }
 .menu {
 	position: relative;
@@ -29,7 +32,7 @@ html, body{
 	color: black;
     z-index: 100;
     width: 20%;
-    height: 50px;
+    height: 100%;
     padding:0; margin:0;
 }
 .menu ul {
@@ -45,10 +48,9 @@ html, body{
     display: block;
     text-align: center;
     padding: 16px;
-    /*text-decoration: underline;
+    text-decoration: underline;
     -moz-text-decoration-color: #68c2ff; 
-    text-decoration-color: #68c2ff;*/
-    border-bottom: .01em #68c2ff solid;
+    text-decoration-color: #68c2ff;
     color: black;
 }
 .menu li a:hover {
