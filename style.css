@@ -16,7 +16,7 @@ html, body{
 }
 .logo {
 	position: fixed;
-	float: right;
+	float: left;
     z-index: 100;
     width: 50%;
     height: 10px;
