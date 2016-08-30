@@ -51,11 +51,12 @@ html, body{
 .half {
 	width: 50%;
 	position: relative;
-	top: 250px;
-	left: 50px;
+	top: 40%;
+	left: 5%;
 }
 .footer {
 	width: 50%;
 	position: relative;
-	left: 50px;
+	left: 5%;
+	top: 90%
 }
