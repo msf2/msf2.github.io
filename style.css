@@ -52,6 +52,7 @@ html, body{
 }
 .menu li a:hover {
     background-color: #68c2ff;
+    text-decoration: none !important;
 }
 .hero{
 	position: relative;
@@ -80,5 +81,5 @@ html, body{
 	position: absolute;
 	padding:0; margin:0;
 	left: 2%;
-	top: 90%
+	top: 95%
 }
