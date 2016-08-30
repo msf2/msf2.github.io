@@ -9,6 +9,7 @@ html, body{
 }
 .menu {
 	position: fixed;
+	float: right;
 	background: rgba(0,0,0,0);
 	color: black;
     z-index: 100;
@@ -44,11 +45,12 @@ html, body{
   	background-size: cover;
   	width: 100%;
   	margin-top: 0px;
-  	height: 500px;
+  	height: 800px;
   	padding:0; margin:0;
 }
 .half{
 	width: 50%;
 	position: relative;
 	top: 250px;
+	left: 50px;
 }
