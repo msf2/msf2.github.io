@@ -52,7 +52,8 @@ html, body{
 .half {
 	width: 50%;
 	height: 50%;
-	position: relative;
+	position: absolute;
+	transform: translateY(-50%);
 	float: left;
 	top: 40%;
 	left: 5%;
