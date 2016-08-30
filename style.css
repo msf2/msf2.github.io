@@ -15,7 +15,7 @@ html, body{
     padding:0; margin:0;
 }
 .logo {
-	position: fixed;
+	position: relative;
 	float: left;
     z-index: 100;
     width: 50%;
@@ -23,7 +23,7 @@ html, body{
     padding:0; margin:0;
 }
 .menu {
-	position: fixed;
+	position: relative;
 	float: right;
 	background: rgba(0,0,0,0);
 	color: black;
