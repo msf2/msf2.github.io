@@ -60,7 +60,7 @@ html, body{
 .footer {
 	width: 50%;
 	position: relative;
-	float: left;
+	float: right;
 	left: 5%;
-	top: 80%
+	top: 90%
 }
