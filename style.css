@@ -45,9 +45,10 @@ html, body{
     display: block;
     text-align: center;
     padding: 16px;
-    text-decoration: underline;
-    -moz-text-decoration-color: #68c2ff; /* Code for Firefox */
-    text-decoration-color: #68c2ff;
+    /*text-decoration: underline;
+    -moz-text-decoration-color: #68c2ff; 
+    text-decoration-color: #68c2ff;*/
+    border-bottom: .01em #68c2ff solid;
     color: black;
 }
 .menu li a:hover {
