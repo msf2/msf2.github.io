@@ -7,13 +7,21 @@ html, body{
 	height: 100%;
 	padding:0; margin:0;
 }
+.logo {
+	position: fixed;
+	float: right;
+    z-index: 100;
+    width: 50%;
+    height: 50px;
+    padding:0; margin:0;
+}
 .menu {
 	position: fixed;
 	float: right;
 	background: rgba(0,0,0,0);
 	color: black;
     z-index: 100;
-    width: 100%;
+    width: 50%;
     height: 50px;
     padding:0; margin:0;
 }
@@ -30,7 +38,9 @@ html, body{
     display: block;
     text-align: center;
     padding: 16px;
-    text-decoration: none;
+    text-decoration: underline;
+    -moz-text-decoration-color: #68c2ff; /* Code for Firefox */
+    text-decoration-color: #68c2ff;
     color: black;
 }
 .menu li a:hover {
@@ -53,15 +63,15 @@ html, body{
 	width: 50%;
 	height: 50%;
 	position: absolute;
-
+	padding:0; margin:0;
 	float: left;
 	top: 40%;
-	left: 5%;
+	left: 2%;
 }
 .footer {
 	width: 50%;
 	position: absolute;
-	
-	left: 5%;
+	padding:0; margin:0;
+	left: 2%;
 	top: 90%
 }
