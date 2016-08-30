@@ -50,6 +50,7 @@ html, body{
 }
 .half {
 	width: 50%;
+	height: 50px;
 	position: relative;
 	top: 40%;
 	left: 5%;
