@@ -52,15 +52,15 @@ html, body{
 .half {
 	width: 50%;
 	height: 50%;
-	position: relative;
+	
 	float: left;
 	top: 40%;
 	left: 5%;
 }
 .footer {
 	width: 50%;
-	position: relative;
-	float: right;
+	
+	
 	left: 5%;
 	top: 90%
 }
