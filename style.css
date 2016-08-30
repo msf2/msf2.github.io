@@ -48,9 +48,14 @@ html, body{
   	height: 800px;
   	padding:0; margin:0;
 }
-.half{
+.half {
 	width: 50%;
 	position: relative;
 	top: 250px;
+	left: 50px;
+}
+.footer {
+	width: 50%;
+	position: relative;
 	left: 50px;
 }
