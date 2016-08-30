@@ -52,7 +52,7 @@ html, body{
 .half {
 	width: 50%;
 	height: 50%;
-	
+	position: relative;
 	float: left;
 	top: 40%;
 	left: 5%;
