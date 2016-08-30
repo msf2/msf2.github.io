@@ -77,9 +77,12 @@ html, body{
 	left: 2%;
 }
 .footer {
-	width: 50%;
+	width: 100%;
 	position: absolute;
 	padding:0; margin:0;
 	left: 2%;
 	top: 95%
+}
+#cr {
+	justify-content: right;
 }
