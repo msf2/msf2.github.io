@@ -47,6 +47,7 @@ html, body{
   	margin-top: 0px;
   	height: 100%;
   	padding:0; margin:0;
+  	overflow: hidden;
 }
 .half {
 	width: 50%;
@@ -59,5 +60,5 @@ html, body{
 	width: 50%;
 	position: relative;
 	left: 5%;
-	top: 90%
+	top: 80%
 }
