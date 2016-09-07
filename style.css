@@ -62,11 +62,11 @@ html, body{
 .hero{
 	position: relative;
 	float: left;
-  	background: 
-  	url(/img/home-stairs.jpg);
-
+  	background: url(/img/home-stairs.jpg) no-repeat center center fixed;
   	background-size: cover;
-  	
+  	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
   	margin-top: 0px;
   	
   	padding:0; margin:0;
