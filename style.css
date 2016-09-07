@@ -8,7 +8,7 @@ html, body{
 	width: 100%;
 	height: 100%;
 	padding:0; margin:0;
-	background: url(/img/home-stairs.jpg) no-repeat 50% 50% fixed;
+	background: url(/img/bg-stairs.jpg) no-repeat 50% 50% fixed;
   	background-size: cover;
   	-webkit-background-size: cover;
     -moz-background-size: cover;
