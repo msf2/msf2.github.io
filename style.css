@@ -66,9 +66,9 @@ html, body{
   	url(/img/home-stairs.jpg);
 
   	background-size: cover;
-  	width: 100%;
+  	
   	margin-top: 0px;
-  	height: 100%;
+  	
   	padding:0; margin:0;
   	overflow: hidden;
 }
@@ -89,12 +89,13 @@ html, body{
 	position: absolute;
 	padding:0; margin:0;
 	left: 5%;
-	top: 92%
+	top: 95%
 }
 #email {
 	width: 80%;
 	position: relative;
 	float: left;
+	text-decoration: none;
 }
 #cr {
 	width: 20%;
