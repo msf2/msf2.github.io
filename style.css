@@ -2,6 +2,11 @@ html, body{
 	height: 100%;
 	padding:0; margin:0;
 	font: helvetica;
+	background: url(/img/home-stairs.jpg) no-repeat 50% 50% fixed;
+  	background-size: cover;
+  	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 .container{
 	width: 100%;
