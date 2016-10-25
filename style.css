@@ -1,5 +1,5 @@
 html, body{
-	height: 100%;
+	height: 90%;
 	padding:0; margin:0;
 	font: helvetica;
 
@@ -17,7 +17,7 @@ html, body{
 .header {
 	position: fixed;
     z-index: 100;
-    width: 100%;
+    width: 90%;
     height: 50px;
     padding:5%; margin:0;
     left: 5%;
